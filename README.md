@@ -1,1 +1,1 @@
-# Contour-weighted-Loss-Seg
+# Contour-weighted loss for class-imbalanced image segmentation
