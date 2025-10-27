@@ -6,3 +6,7 @@ Image segmentation is critically important in almost all medical image analysis 
 
 ### Paper
 https://arxiv.org/pdf/2407.06176
+
+
+### Contour-weighted loss
+You can find the code of contour-weighted loss in the losses/BoundaryWeightedLoss.py.
